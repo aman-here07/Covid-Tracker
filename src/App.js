@@ -33,7 +33,7 @@ class App extends React.Component {
         <div> <h1 style={{ color: "green", 
                    textAlign: "center", 
                    marginTop: "50px" }}>
-        Practiced by Aman
+        Made by Aman
       </h1></div>
       </div>
     );
